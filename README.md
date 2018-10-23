@@ -1,6 +1,7 @@
 ## ABOUT
 
 * Download your own first degree friends network and analyze it in Gephi.
+* Study soccer passes with Gephi.
 
 ## INSTALL
 
@@ -15,3 +16,4 @@
 ## RUN
 
 * ruby scrape_friends.rb
+
